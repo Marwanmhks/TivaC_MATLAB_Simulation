@@ -1,0 +1,11 @@
+.\objects\subsystem.o: Subsystem.c
+.\objects\subsystem.o: Subsystem.h
+.\objects\subsystem.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\subsystem.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\subsystem.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\subsystem.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\subsystem.o: rtwtypes.h
+.\objects\subsystem.o: Subsystem_types.h
+.\objects\subsystem.o: rtGetInf.h
+.\objects\subsystem.o: rt_nonfinite.h
+.\objects\subsystem.o: Subsystem_private.h
