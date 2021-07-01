@@ -9,6 +9,7 @@ Generating a MATLAB Simulink physical model and generating its MATLAB code. Then
 ![connection diagram](https://user-images.githubusercontent.com/66640498/124151842-45248100-da93-11eb-8ad1-cc71532532f6.PNG)
 ## MATLAB Model
 ![Model](https://user-images.githubusercontent.com/66640498/124151873-4bb2f880-da93-11eb-9228-c83c17d4e95e.JPG)
+### Water-Tank Subsystem
 ![Water Tank System](https://user-images.githubusercontent.com/66640498/124151883-4eade900-da93-11eb-8b3a-1a475dfc244b.JPG)
 ## Sampling Time
 The time 𝜏 required to reach 63% of the maximum output is 2.369s. According to Nyquist “Sampling Theory” the sampling rate is at least half the time constant, but for more accurate and practical representation we assumed the sampling time to be 110 𝜏.
