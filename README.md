@@ -2,7 +2,7 @@
 ## Objective
 Developing a closed-loop control embedded system real time operation.
 ## Project Description
-Generating a MATLAB Simulink physical model and generating its MATLAB code. Then implementing it on Tive C Evaluation board. Furthermore, communicating between two Tiva boards and serially transmitting data into the PC Excel file to be graphed and then validated and verified with the MATLAB output scope.
+Generating a MATLAB Simulink physical model and generating its MATLAB code. Then implementing it on Tive C Evaluation board using FreeRTOS. Furthermore, communicating between two Tiva C boards and serially transmitting data into the PC Excel file to be graphed and then validated and verified with the MATLAB output scope.
 ## Project Flowchart
 ![flowchart](https://user-images.githubusercontent.com/66640498/124151494-e7903480-da92-11eb-9c0a-97e613622c8f.PNG)
 ## Connections Diagram
