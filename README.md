@@ -1,4 +1,4 @@
-# TivaC_MATLAB_Simulation
+# TivaC_MATLAB_Simulation_Using_FreeRTOS
 ## Objective
 Developing a closed-loop control embedded system real time operation.
 ## Project Description
